@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "description": "It is said that one machine can do the work of 50 ordinary men. No machine, however, can do the work of one extraordinary man.",
+      "category": "Tech",
+      "profileId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "description": "Good health is not something we can buy. ",
+      "category": "Health",
+      "profileId": "5"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "description": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+      "category": "Education",
+      "profileId": "2"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "description": "The best way to predict your future is to create it.",
+      "category": "Lifestyle",
+      "profileId": "4"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "description": "Technology is the study of scientific knowledge in order to create tools and processes that may be used to change the world by increasing efficiency in nearly every aspect of our lives.",
+      "category": "Tech",
+      "profileId": "3"
+    },
+    {
+      "id": "6",
+      "title": "Post 6",
+      "description": "Take care of your body. It's the only place you have to live.",
+      "category": "Health",
+      "profileId": "5"
+    },
+    {
+      "id": "7",
+      "title": "Post 7",
+      "description": "The instructions a programmer writes when creating a program",
+      "category": "programming",
+      "profileId": "1"
+    },
+    {
+      "id": "8",
+      "title": "Post 8",
+      "description": "Believe you can and you're halfway there.",
+      "category": "Lifestyle",
+      "profileId": "4"
+    },
+    {
+      "id": "9",
+      "title": "Post 9",
+      "description": "Any fool can write code that a computer can understand",
+      "category": "programming",
+      "profileId": "3"
+    },
+    {
+      "id": "10",
+      "title": "Post 10",
+      "description": "the act or process of imparting or acquiring general knowledge, developing the powers of reasoning and judgment, and generally of preparing oneself or others intellectually for mature life.",
+      "category": "Education",
+      "profileId": "2"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "1",
+      "name": "Zainul"
+    },
+    {
+      "id": "2",
+      "name": "Kalimullah"
+    },
+    {
+      "id": "3",
+      "name": "Moin"
+    },
+    {
+      "id": "4",
+      "name": "Tasin"
+    },
+    {
+      "id": "5",
+      "name": "Abul"
+    }
+  ]
+}
